@@ -1,0 +1,5 @@
+RoomID,ImagePath,Name,Cost,Stock
+1,family.jpeg,family,60,7
+2,suite.jpeg,suite,50,6
+3,deluxe.jpeg,deluxe,55,5
+4,nonac.jpeg,Non-AC,45,5
